@@ -1,15 +1,6 @@
 # Microgrants Tool
 
-A site to help streamline microgrants for neighbors to host gatherings, cover small costs, and spark connection. This tool provides an end-to-end flow: from applying, reviewing, and approving, to reflecting and sustaining momentum.  
-
----
-
-## Core Principles
-- **Small is powerful**: Keep grants low-dollar (e.g. $50) to encourage action over perfection.  
-- **Ease of access**: Short, human-friendly applications that don’t require professional grant-writing.  
-- **Trust before bureaucracy**: Generous design that minimizes reporting burden.  
-- **Momentum, not transactions**: Each grant is a seed for continued connection and care.  
-- **Commons-oriented**: Microgrants are onramps to the broader relational infrastructure.  
+A site to help streamline microgrants for neighbors to host gatherings, cover small costs, and spark connection. This tool provides an end-to-end flow: from applying, reviewing, and approving, to reflecting and sustaining momentum.   
 
 ---
 
