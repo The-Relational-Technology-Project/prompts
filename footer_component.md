@@ -25,6 +25,3 @@ Create a clean and inviting footer component for relational tech community websi
 - Friendly typography, not overly corporate.  
 - Use a heart emoji ❤️ or orange heart 🧡 as a visual accent.  
 - Keep it minimal, warm, and remixable.  
-
-## Output
-A footer component styled consistently with relational tech aesthetics (community-built, warm, simple). Allow customization for project name, contact email, and toggleable links.
