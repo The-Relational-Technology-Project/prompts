@@ -1,17 +1,6 @@
-# Remixable Prompt: Neighborhood Today
+# Neighborhood Today
 
-**Prompt:**  
 Build a **Neighborhood Today site**: a hyperlocal events and community calendar that helps neighbors see what’s happening, make small plans, and feel part of a shared rhythm. The site should feel *warm, light, and human*, not like an institutional app. It’s a calendar that celebrates local life—civic care and cultural joy side by side.  
-
----
-
-### Relational Tech Principles to Embed  
-- **Care-first framing**: show events as invitations into belonging, not listings to consume.  
-- **Hyperlocal rhythm**: keep the focus on today and the week ahead—nearby, walkable, neighbor-scale.  
-- **Low friction**: no logins required; anonymous or light-touch participation.  
-- **Trust through curation**: events are reviewed or lightly stewarded to maintain relevance.  
-- **Ambient social presence**: subtle cues that others are participating (e.g., “12 neighbors added this to their plan”).  
-- **Integration with IRL**: QR codes on flyers, mentions in newsletters, and neighborhood stewards using the site at events.  
 
 ---
 
