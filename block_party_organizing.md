@@ -1,11 +1,7 @@
 # Block Party Organizing
 
 A neighborhood block party site that helps organize, celebrate, and document block parties. The site can either live as a page within a larger **Neighbor Hub** or stand alone at a custom URL for a specific block and year (e.g. *48thAveBlockParty2025.org*).  
-
-## Core Principles
-- **Relational First**: The site should not just coordinate logistics, but invite joy, care, and belonging.  
-- **Transparency & Trust**: Clear, public info on the event builds trust and encourages participation.  
-- **Ease of Stewardship**: The block steward has a simple, password-protected admin panel with all essential data for running the party.  
+  
 - **Memory & Momentum**: After the party, the site serves as a joyful record and keeps the spark alive for next year.  
 
 ## Public-Facing Features
