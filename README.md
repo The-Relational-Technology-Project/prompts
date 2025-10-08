@@ -42,6 +42,3 @@ The Prompt Library is one part of this larger work — a starting kit for commun
 * 🤝 Share back your experiences, adaptations, and improvements
 * 🎉 Let’s grow a commons of tools that help us take care of one another
 
----
-
-Would you like me to also create a **shorter “community-friendly” version** of this README (less GitHub-y, more neighborly) for use on the RTP website or in outward-facing comms?
