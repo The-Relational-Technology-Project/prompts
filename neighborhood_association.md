@@ -1,4 +1,4 @@
-# Neighborhood Association Hub – Detailed Build Prompt
+# Neighborhood Association Hub
 
 Build a modern, community-friendly website template for a **Neighborhood Association Hub**.  
 It should serve as a digital front porch for established neighborhood associations, supporting connection, organizing, and storytelling.  
@@ -156,5 +156,3 @@ It should serve as a digital front porch for established neighborhood associatio
 - Show live metrics (member count, years serving, active programs).
 - Integrate external resources instead of duplicating (city services, mutual aid groups).
 - Make it feel like the neighborhood: use quotes, photos, and local vibes.
-
----
