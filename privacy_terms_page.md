@@ -50,6 +50,3 @@ Create a warm, clear, and human-centered **Privacy & Terms** page for relational
 - Use orange bullet points for privacy, pink bullet points for terms.  
 - Keep text size readable and accessible.  
 - Style should feel human, approachable, and simple—avoiding overly legal or corporate aesthetics.  
-
-## Output
-A Privacy & Terms page that any relational tech project can quickly remix by editing project name, contact info, location, and community care note, while maintaining clarity, warmth, and trust.
