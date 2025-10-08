@@ -1,4 +1,4 @@
-# Neighbor Story Sharing – Builder Prompt
+# Neighbor Story Sharing
 
 Build a local web platform for **Neighbor Story Sharing**: a lightweight, emotionally warm tool for collecting and sharing personal stories from community members to build trust, connection, and belonging. It should balance **simplicity, consent, and relational design** with a UI that feels welcoming, calm, and human — not like social media.
 
@@ -108,15 +108,6 @@ Each story card should include:
   - Instead of “Register Interest,” say: “Express Interest.”
   - Remind people: “Stories are acts of care. Share only what feels safe.”
 - Include community-specific hooks like: “We’re covering coffee for the first 5 gatherings.”
-
----
-
-## Relational Design Principles
-- **Consent & Care:** optional anonymity, clear opt-ins, emotional safety emphasized.
-- **Low Barrier:** no login required to read or share.
-- **Multilingual Respect:** language tags + translator available badges.
-- **Bridge to Offline:** digital platform is a tool for **sparking real-world gatherings** — not an end in itself.
-- **Community Memory:** stories serve as connective tissue, not just content.
 
 ---
 
