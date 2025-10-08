@@ -2,13 +2,6 @@
 
 A neighborhood-powered sharing system where neighbors lend and borrow supplies to make parties and gatherings stress-free, joyful, and low-cost.
 
----
-
-## Core Principles
-- **Celebration-first**: Anchor the experience in joyful gatherings, not transactions.  
-- **Trust + Reciprocity**: Encourage both lending and borrowing to normalize sharing.  
-- **Playful + Inviting**: Use colorful gradients, friendly icons, and celebratory copy.  
-- **Simple + Lightweight**: Prioritize ease of use—no complex rentals or payments.  
 
 ---
 
