@@ -5,15 +5,6 @@ Build a **Hyperlocal Neighbor Hub**: a small, cozy website for a single block or
 
 ---
 
-### Relational Tech Principles to Embed
-- **Care-first design**: the site should invite generosity and reciprocity, not transactions.  
-- **Trust-building reciprocity**: highlight everyday acts of showing up for each other.  
-- **Small is beautiful**: design for intimacy and scale at the level of a block, not a city.  
-- **Gradual participation**: allow entry without logins; let people ease in before committing.  
-- **Celebration**: emphasize joy, belonging, and play as much as utility.  
-
----
-
 ### Core Features
 
 #### 1. Block Party Planning Flow
